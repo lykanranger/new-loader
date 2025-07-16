@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   height: 100vh;
-  background: white;
+  background: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,7 +28,7 @@ body {
 
 .hello__svg {
   fill: none;
-  stroke: #000000;
+  stroke: #ffffff;
   stroke-linecap: round;
   stroke-miterlimit: 10;
   stroke-width: 40px;
