@@ -35,7 +35,7 @@ body {
   stroke-dasharray: 5800px;
   stroke-dashoffset: 5800px;
   animation: anim__hello linear 4s forwards;
-  width: 70%;
+  width: 50%;
   height: 200px;
   max-width: 500px;
   margin: 0 auto;
